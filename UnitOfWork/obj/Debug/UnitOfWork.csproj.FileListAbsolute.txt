@@ -13,3 +13,18 @@ C:\Personal Projects\Absa Assessment\Phonebook Application\UnitOfWork\obj\Debug\
 C:\Personal Projects\Absa Assessment\Phonebook Application\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
 C:\Personal Projects\Absa Assessment\Phonebook Application\UnitOfWork\obj\Debug\UnitOfWork.dll
 C:\Personal Projects\Absa Assessment\Phonebook Application\UnitOfWork\obj\Debug\UnitOfWork.pdb
+G:\Phonebook\UnitOfWork\bin\Debug\UnitOfWork.dll.config
+G:\Phonebook\UnitOfWork\bin\Debug\UnitOfWork.dll
+G:\Phonebook\UnitOfWork\bin\Debug\UnitOfWork.pdb
+G:\Phonebook\UnitOfWork\bin\Debug\DataContext.dll
+G:\Phonebook\UnitOfWork\bin\Debug\EntityFramework.dll
+G:\Phonebook\UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+G:\Phonebook\UnitOfWork\bin\Debug\System.Linq.Dynamic.dll
+G:\Phonebook\UnitOfWork\bin\Debug\DataContext.pdb
+G:\Phonebook\UnitOfWork\bin\Debug\DataContext.dll.config
+G:\Phonebook\UnitOfWork\bin\Debug\EntityFramework.xml
+G:\Phonebook\UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+G:\Phonebook\UnitOfWork\obj\Debug\UnitOfWork.csprojAssemblyReference.cache
+G:\Phonebook\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
+G:\Phonebook\UnitOfWork\obj\Debug\UnitOfWork.dll
+G:\Phonebook\UnitOfWork\obj\Debug\UnitOfWork.pdb

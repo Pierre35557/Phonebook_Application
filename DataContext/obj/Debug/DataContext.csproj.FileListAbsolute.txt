@@ -12,3 +12,17 @@ C:\Personal Projects\Absa Assessment\Phonebook Application\DataContext\obj\Debug
 C:\Personal Projects\Absa Assessment\Phonebook Application\DataContext\obj\Debug\DataContext.pdb
 C:\Personal Projects\Absa Assessment\Phonebook Application\DataContext\obj\Debug\DataContext.csprojAssemblyReference.cache
 C:\Personal Projects\Absa Assessment\Phonebook Application\DataContext\obj\Debug\DataContext.Migrations.UpdatedPhoneLength.resources
+G:\Phonebook\DataContext\bin\Debug\DataContext.dll.config
+G:\Phonebook\DataContext\bin\Debug\DataContext.dll
+G:\Phonebook\DataContext\bin\Debug\DataContext.pdb
+G:\Phonebook\DataContext\bin\Debug\EntityFramework.dll
+G:\Phonebook\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+G:\Phonebook\DataContext\bin\Debug\EntityFramework.xml
+G:\Phonebook\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+G:\Phonebook\DataContext\obj\Debug\DataContext.csprojAssemblyReference.cache
+G:\Phonebook\DataContext\obj\Debug\DataContext.Migrations.Initial.resources
+G:\Phonebook\DataContext\obj\Debug\DataContext.Migrations.UpdatedPhoneLength.resources
+G:\Phonebook\DataContext\obj\Debug\DataContext.csproj.GenerateResource.cache
+G:\Phonebook\DataContext\obj\Debug\DataContext.csproj.CopyComplete
+G:\Phonebook\DataContext\obj\Debug\DataContext.dll
+G:\Phonebook\DataContext\obj\Debug\DataContext.pdb

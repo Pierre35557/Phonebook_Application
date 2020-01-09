@@ -84,3 +84,89 @@ C:\Personal Projects\Absa Assessment\Phonebook Application\Phonebook Application
 C:\Personal Projects\Absa Assessment\Phonebook Application\Phonebook Application\obj\Debug\Phonebook Application.csproj.CopyComplete
 C:\Personal Projects\Absa Assessment\Phonebook Application\Phonebook Application\obj\Debug\Phonebook Application.dll
 C:\Personal Projects\Absa Assessment\Phonebook Application\Phonebook Application\obj\Debug\Phonebook Application.pdb
+G:\Phonebook\Phonebook Application\bin\Phonebook Application.dll.config
+G:\Phonebook\Phonebook Application\bin\Phonebook Application.dll
+G:\Phonebook\Phonebook Application\bin\Phonebook Application.pdb
+G:\Phonebook\Phonebook Application\bin\roslyn\csc.exe
+G:\Phonebook\Phonebook Application\bin\roslyn\csc.exe.config
+G:\Phonebook\Phonebook Application\bin\roslyn\csc.rsp
+G:\Phonebook\Phonebook Application\bin\roslyn\csi.exe
+G:\Phonebook\Phonebook Application\bin\roslyn\csi.exe.config
+G:\Phonebook\Phonebook Application\bin\roslyn\csi.rsp
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Phonebook\Phonebook Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Phonebook\Phonebook Application\bin\roslyn\System.AppContext.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Collections.Immutable.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Console.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.IO.Compression.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.IO.FileSystem.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.IO.Pipes.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Reflection.Metadata.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.AccessControl.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Claims.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.ValueTuple.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Xml.XPath.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Phonebook\Phonebook Application\bin\roslyn\vbc.exe
+G:\Phonebook\Phonebook Application\bin\roslyn\vbc.exe.config
+G:\Phonebook\Phonebook Application\bin\roslyn\vbc.rsp
+G:\Phonebook\Phonebook Application\bin\roslyn\VBCSCompiler.exe
+G:\Phonebook\Phonebook Application\bin\roslyn\VBCSCompiler.exe.config
+G:\Phonebook\Phonebook Application\bin\Antlr3.Runtime.dll
+G:\Phonebook\Phonebook Application\bin\EntityFramework.dll
+G:\Phonebook\Phonebook Application\bin\EntityFramework.SqlServer.dll
+G:\Phonebook\Phonebook Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Phonebook\Phonebook Application\bin\Microsoft.Web.Infrastructure.dll
+G:\Phonebook\Phonebook Application\bin\Newtonsoft.Json.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.Helpers.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.Mvc.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.Optimization.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.Razor.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.Deployment.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.dll
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.Razor.dll
+G:\Phonebook\Phonebook Application\bin\UnitOfWork.dll
+G:\Phonebook\Phonebook Application\bin\WebActivatorEx.dll
+G:\Phonebook\Phonebook Application\bin\WebGrease.dll
+G:\Phonebook\Phonebook Application\bin\DataContext.dll
+G:\Phonebook\Phonebook Application\bin\UnitOfWork.pdb
+G:\Phonebook\Phonebook Application\bin\UnitOfWork.dll.config
+G:\Phonebook\Phonebook Application\bin\EntityFramework.xml
+G:\Phonebook\Phonebook Application\bin\EntityFramework.SqlServer.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.Helpers.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.Mvc.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.Optimization.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.Razor.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.Deployment.xml
+G:\Phonebook\Phonebook Application\bin\System.Web.WebPages.Razor.xml
+G:\Phonebook\Phonebook Application\bin\Newtonsoft.Json.xml
+G:\Phonebook\Phonebook Application\bin\Antlr3.Runtime.pdb
+G:\Phonebook\Phonebook Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Phonebook\Phonebook Application\bin\DataContext.pdb
+G:\Phonebook\Phonebook Application\bin\DataContext.dll.config
+G:\Phonebook\Phonebook Application\obj\Debug\Phonebook Application.csprojAssemblyReference.cache
+G:\Phonebook\Phonebook Application\obj\Debug\Phonebook Application.csproj.CopyComplete
+G:\Phonebook\Phonebook Application\obj\Debug\Phonebook Application.dll
+G:\Phonebook\Phonebook Application\obj\Debug\Phonebook Application.pdb
